@@ -1,2 +1,3 @@
-# AndrewNG-Machine-Learning
-Coursera Andrew Ng的机器学习练习题
+# AndrewNG-Machine-Learning-ex1
+
+My solution for the exercise1 of Andrew Ng machine learning on coursera
